@@ -9,3 +9,10 @@ Prerequisites
 Run the application
 ```bash
   node redis-hello-world.js
+
+## Results
+![Results](redis-hello-world.png)
+
+## Notes
+- It was easy to install and configure the Redis server
+- inserting and retrieving data via node.js was easy
